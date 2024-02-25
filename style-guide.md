@@ -16,9 +16,9 @@ The designs were created to the following widths:
 
 ### Neutral
 
-- White: hsl(0, 0%, 100%)
+- White: #ffffff
 - Rose White: hsl(330, 100%, 98%)
-- Eggshell: hsl(30, 54%, 90%)
+- Eggshell: #f3e6d8
 - Light Grey: hsl(30, 18%, 87%)
 - Wenge Brown: hsl(30, 10%, 34%)
 - Dark Charcoal: hsl(24, 5%, 18%)
