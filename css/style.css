@@ -17,21 +17,44 @@ body{
 
 main{
     background-color: #ffffff;
-    max-width: 700px;
+    max-width: 650px;
     padding: 2.5rem;
     border-radius: 1rem;
 }
 
-p{
-    font-size: 16px;
-}
-
 #omeletteImg{
     width: 100%;
-    border-radius: 1rem;
+    border-radius: 0.75rem;
 }
 
 h1{
     font-family: "Young Serif", serif;
     font-size: 2.5rem;
+    font-weight: 500;
+    margin: 2rem 0 1rem 0;
+    color: #302d2c;
+}
+
+p{
+    font-size: 16px;
+    line-height: 1.5rem;
+    color: #5f574e;
+}
+
+#preparationTime{
+    margin: 2rem 0 1rem 0;
+    background-color: #fff5fa;
+    padding: 1rem;
+    border-radius: 0.75rem;
+}
+
+h3{
+    color: #7b284f;
+    margin-bottom: 1rem;
+}
+
+ul li{
+    list-style-position:inside;
+    color: #5f574e;
+    margin: 0 0 0.75rem 1rem;
 }
